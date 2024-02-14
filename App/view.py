@@ -69,6 +69,7 @@ def loadData(control):
 
 def printAuthorData(author):
     """
+    
     Recorre la lista de libros de un autor, imprimiendo
     la informacin solicitada.
     """
